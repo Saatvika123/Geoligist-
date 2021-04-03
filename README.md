@@ -1,1 +1,2 @@
-# Geoligist-
+# Geologist
+Geologist Project
